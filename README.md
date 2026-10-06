@@ -1,9 +1,15 @@
 # SebastianRaschka_gpu_PyTorch
 PyTorch Guide 
-![image.png](attachment:b722d29d-6506-4b60-b01a-3356578cccbb.png)
+<img width="4246" height="2383" alt="image" src="https://github.com/user-attachments/assets/93672413-b888-4861-913f-383fbc255545" />
 
-![image.png](attachment:67d02001-d61d-42ee-8eb0-be5ca98e9435.png)
+<img width="3925" height="3029" alt="image" src="https://github.com/user-attachments/assets/e1fd0ddb-4f34-4528-9dd2-3f0720184281" />
 
-![image.png](attachment:c6a91d45-b95e-4742-8569-eb5214e934cc.png)
+<img width="5179" height="1958" alt="image" src="https://github.com/user-attachments/assets/eab4219c-4e75-46b8-802a-341968dad356" />
 
-![image.png](attachment:e4935bf2-988e-4611-aa2f-9ce1641f2edf.png)
+
+<img width="3981" height="2735" alt="image" src="https://github.com/user-attachments/assets/0ee09c19-a23d-4158-b433-d9d4a285f704" />
+
+<img width="679" height="675" alt="image" src="https://github.com/user-attachments/assets/19ecfcfb-8aef-440f-a24d-2b060e100bcb" />
+
+
+
